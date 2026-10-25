@@ -39,7 +39,7 @@ android {
 dependencies {
     implementation(libs.androidx.core.ktx)
     implementation("androidx.appcompat:appcompat:1.7.0")
-    implementation("org.mozilla.geckoview:geckoview-omni:158.0.20261021001945")
+    implementation("org.mozilla.geckoview:geckoview-omni:148.0.20260227145000")
     implementation("androidx.swiperefreshlayout:swiperefreshlayout:1.1.0")
 
     testImplementation(libs.junit)
